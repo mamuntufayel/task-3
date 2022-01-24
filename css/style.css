@@ -10,7 +10,8 @@ body{
 .position{
     position: relative;
     top:-30px;
-    box-shadow: 10px 10px 5px 12px gray ;
+    /* box-shadow: 10px 10px 5px 12px gray ; */
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
     border-radius: 26px;
 }
 .hot-position{
@@ -20,4 +21,7 @@ body{
     top: -115px;
     left: 185px;
     padding-left: 10px;
+}
+.background-white{
+    background-color: white;
 }
