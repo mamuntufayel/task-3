@@ -27,5 +27,9 @@ body{
 
 .special-offer:hover{
     background: linear-gradient(to right, blue, pink);
+    border-radius: 30px;
+}
+.carousel-text{
+    color: floralwhite;
 }
 /* <!--************* wedding package deco ended*************** -->  */
