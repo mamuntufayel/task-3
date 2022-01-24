@@ -1,0 +1,23 @@
+/* font-link for poppin */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=The+Nautigal&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.fa-check{
+    color: grey;
+}
+.position{
+    position: relative;
+    top:-30px;
+    box-shadow: 10px 10px 5px 12px gray ;
+    border-radius: 26px;
+}
+.hot-position{
+    border-radius: 30px;
+    width: 50px;
+    position: relative;
+    top: -115px;
+    left: 185px;
+    padding-left: 10px;
+}
