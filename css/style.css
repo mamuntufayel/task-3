@@ -4,9 +4,11 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+/* <!--************* checkmark decoration*************** -->  */
 .fa-check{
     color: grey;
 }
+/* <!--************* wedding package deco*************** -->  */
 .position{
     position: relative;
     top:-30px;
@@ -22,9 +24,8 @@ body{
     left: 185px;
     padding-left: 10px;
 }
-.background-white{
-    background-color: white;
-}
+
 .special-offer:hover{
     background: linear-gradient(to right, blue, pink);
 }
+/* <!--************* wedding package deco ended*************** -->  */
